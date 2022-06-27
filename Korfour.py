@@ -12,7 +12,6 @@ def char():
         i = 0
         x = 0
         for j in range(len(setofchar)):
-            i = 0
             x = 0
             for som in (listofnumber):
                 print(setofchar[b],end = "")
@@ -23,4 +22,4 @@ def char():
             i += 1
         b += 1
 char()
-print("The number in list = ",roundroundround1)
+print("\nThe number in list = ",roundroundround1)
